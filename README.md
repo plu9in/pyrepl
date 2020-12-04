@@ -1,5 +1,7 @@
 # pyrepl
 
+A python read-eval-print-loop library ... sort of ...
+
 ##Origins
 pyrepl is a reimplementation in python of [linenoise](https://github.com/antirez/linenoise).
 
